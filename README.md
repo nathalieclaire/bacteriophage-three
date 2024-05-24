@@ -1,13 +1,13 @@
-<div style="text-align: center;">
+<div align="center">
   <p>Nathalie Claire Huppert,  Computer Graphics</p>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <h1>Bacteriophage Project Three.js</h1>
 </div>
 
 <br>
-<div style="text-align: center;">
+<div align="center">
   <img src="assets/images/screenshots/bacteriophage_shot1.PNG" alt="Screenshot of Bacteriophage" width="800">
 </div>
 <br><br>
@@ -31,7 +31,7 @@ Unfortunately, I had a little too much planned for the time I had available, and
 If I had had more time, my next steps would have been to add the event listeners to the legs and create a small animation for each of them, and also to improve the overall performance of my project. because as I find, it takes quite a long time to load the whole animation, although it runs smoothly afterwards. So my idea was to reduce the quality of my HDRI texture in Photoshop, because that seems to be the main problem.
 
 <br><br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<div align="center" style="display: flex;">
   <img src="assets/images/screenshots/bacteriophage_shot3.PNG" alt="Screenshot 1" width="280">
   <img src="assets/images/screenshots/bacteriophage_shot5.PNG" alt="Screenshot 2" width="270">
   <img src="assets/images/screenshots/bacteriophage_shot2.PNG" alt="Screenshot 3" width="250">
