@@ -1,13 +1,13 @@
-<div style="text-align: center;">
+<div align="center">
   <p>Nathalie Claire Huppert,  Computer Graphics</p>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
   <h1>Bacteriophage Project Three.js</h1>
 </div>
 
 <br>
-<div style="text-align: center;">
+<div align="center">
   <img src="assets/images/screenshots/bacteriophage_shot1.PNG" alt="Screenshot of Bacteriophage" width="800">
 </div>
 <br><br>
