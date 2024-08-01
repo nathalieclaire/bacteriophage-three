@@ -12,6 +12,22 @@
 </div>
 <br><br>
 
+## Installation
+
+To install the dependencies, clone this repository. Then, run the following from the project's root directory.
+
+```console
+npm install
+```
+
+## Run
+
+The server is run via npx. The page is served on `localhost:5173`.
+
+```console
+npx vite
+```
+
 ## Topic
 For my project, I wanted to create a bacteriophage because I had looked at some projects on the Three.js website for inspiration and wanted something where I could include an HDRI texture and an object with a reflective material.
 
