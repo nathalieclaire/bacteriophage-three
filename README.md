@@ -10,7 +10,7 @@
 <div align="center">
   <img src="assets/images/screenshots/bacteriophage_shot1.PNG" alt="Screenshot of Bacteriophage" width="800">
 </div>
-<br><br>
+<br>
 
 ## Installation
 
